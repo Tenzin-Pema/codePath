@@ -14,5 +14,6 @@ Mobile App Design - iOS Pre-work Project
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
-   https://i.imgur.com/WCLBYO4.gif
-   https://i.imgur.com/hS3aFgC.gif
+ 
+ https://i.imgur.com/WCLBYO4.gif
+ https://i.imgur.com/hS3aFgC.gif
